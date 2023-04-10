@@ -1,6 +1,6 @@
 # Health Analytics
 
-### É possível prever o tempo de sobrevivência dos pacientes após receberem um transplante de Fígado?
+## É possível prever o tempo de sobrevivência dos pacientes após receberem um transplante de Fígado?
 
 O Desenvolvimento do Projeto está no arquivo **Health_Analytics.ipynb**.
 Há também um SVG: **arvore_de_decisao.svg**, esta é imagem que ilustra o esquema de uma das árvores de decisão criadas no treinamento do modelo preditivo. É uma imagem realmente grande, provavelmente você vai ter que baixar e abrir no navegador.
